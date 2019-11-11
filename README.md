@@ -1,6 +1,6 @@
 # Puppeteer Recorder
 
-[![Build Status](https://travis-ci.org/checkly/puppeteer-recorder.svg?branch=develop)](https://travis-ci.org/checkly/puppeteer-recorder)
+[![Build Status](https://travis-ci.org/checkly/puppeteer-recorder.svg?branch=master)](https://travis-ci.org/checkly/puppeteer-recorder-whitTemplate)
 
 [![coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/BJZo3yr)
 
